@@ -1,0 +1,63 @@
+.is-single #outer-wrapper {
+    background: #000000;
+}
+.is-single .disclaimer {
+    background-color: #191e21;
+}
+.is-single #description .description {
+    background: #191e21;
+    border: 0;
+}
+.is-single #description .description p.overview {
+    color: #fff;
+}
+.is-single #description .description ul.list-details li.list-item {
+    color: #fff;
+}
+.is-single .note-description .note-text {
+    color: #fff;
+}
+.is-single .grids .post {
+    background-color: #191e21;
+}
+.is-single .entry-title a {
+    color: #fff;
+}
+.is-single .sidebar > .widget {
+    background-color: #191e21;
+}
+.is-single .entry-title {
+    color: #fff;
+}
+.is-single .heading-title {
+    background-color: #333;
+    box-shadow: var(--mainShadow);
+}
+.is-single .share-links .sl-btn {
+    background-color: #191e21;color: #fff;
+}
+.is-single #comments {
+    background: #191e21;
+}
+.is-single .cloud-label li a {
+    background: rgba(37,43,48,1);
+    color: #fff;
+}
+.is-single body{
+    color: azure;
+}
+.is-single .entry-labels a {
+    background-color: #191e21;
+    color: #c4c6ca;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.25);
+}
+.is-single .entry-labels a:hover, .entry-labels span {
+    background-color: #ee2b16;
+    color: #ffffff;
+}
+.is-single .main-header, .header-inner, .header-header {
+    background-color: #191e21;
+}
+.is-single .darkmode-toggle::after {
+    display: none;
+}
