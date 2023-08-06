@@ -68,3 +68,12 @@
     padding: 5px 0 0;
     background-color: #191e21;
 }
+is-single .main-header, .header-inner, .header-header {
+    background-color: #191e21;
+}
+is-single .entry-labels a, .entry-labels span {
+    background-color: var(--mainColor);
+}
+.post-body h1, .post-body h2, .post-body h3, .post-body h4, .post-body h5, .post-body h6, #post-body, is-single .post-body h1, .post-body h2, .post-body h3, .post-body h4, .post-body h5, .post-body h6 {
+    color: azure;
+}
